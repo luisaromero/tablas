@@ -1,0 +1,44 @@
+
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+   }
+
+
+body{
+    background:#05146E;
+}
+
+.col-2 {
+
+    background: #fff;
+    height: 100vh;
+}
+
+img{
+    
+    max-width:100px;
+    margin-top: 2em;
+        margin-bottom: 4em;
+      margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+
+button, input{
+    margin-left:1em;
+    margin-top:1em;
+}
+
+
+
+.table td, .table th{
+    padding: 0;
+    font-size: 0.75em;
+   text-align: center;
+}
+  
+#calendar{
+    height: 300px;
+}
